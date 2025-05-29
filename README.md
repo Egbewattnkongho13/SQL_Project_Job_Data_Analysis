@@ -184,7 +184,7 @@ Based on analysis of the top 10 highest-paying Data Engineer positions, the most
 
 *Note: Frequency indicates how many of the top 10 highest-paying jobs require each skill*
 
-![Horizontal bar chart of top skills for high-paying data engineering jobs](assets\data_engineering_skills_frequency.png)
+![Horizontal bar chart of top skills for high-paying data engineering jobs](assets/data_engineering_skills_frequency.png)
 
 Absolutely! Here are concise explanations for each of your main tables, following the style of the first one. You can review these and let me know if you want to add or modify anything before inserting them into your README.
 
@@ -243,7 +243,7 @@ LIMIT 5;
 | 5    | Spark    | 6612         |
 
 
-![Horizontal bar chart of most in-demand skills](assets\most_in_demand_skills.png)
+![Horizontal bar chart of most in-demand skills](assets/most_in_demand_skills.png)
 
 ### Most In-Demand Skills for Data Engineers — Table Analysis
 
@@ -315,7 +315,7 @@ LIMIT 25;
 | 24   | Kafka        | $150,549.04          |
 | 25   | VMware       | $150,000.00          |
 
-![Horizontal bar chart of salaries by skill](assets\highest_paying_skills.png)
+![Horizontal bar chart of salaries by skill](assets/highest_paying_skills.png)
 
 ## Skills Associated with Higher Salaries — Table Analysis
 
@@ -526,11 +526,17 @@ Through this project, I gained insights into:
 Key findings from the analysis:
 
 **1. Top Paying Data Engineer Jobs:** The highest salaries for Data Engineers can reach up to $325,000 per year. Multiple companies (e.g., Engtal, Signify Technology) appear more than once, indicating they offer several high-paying roles.
-**2. Skills Required for Top-Paying Data Engineer Jobs:**Python and Spark are the most common skills among high-paying roles. A mix of programming, big data, and cloud skills are valued.
-**3. Most In-Demand Skills for Data Engineers:**SQL and Python are the most universally required skills. Cloud platforms (AWS, Azure) and big data tools (Spark) are also in high demand.
-**4. Skills Associated with Higher Salaries:**Some less common or specialized skills (e.g., Assembly, Rust, Clojure) are associated with higher salaries. Certain big data and cloud skills also command strong compensation.
-**5. Most Optimal Skills to Learn:**Skills like Kubernetes, Kafka, and Spark offer a strong balance of demand and compensation. Both programming and cloud/data infrastructure skills are optimal for career growth.
-**6. Local Job Opportunities:**There are a variety of data and software roles available locally and both international and local companies are hiring in Cameroon.
+
+**2. Skills Required for Top-Paying Data Engineer Jobs:** Python and Spark are the most common skills among high-paying roles. A mix of programming, big data, and cloud skills are valued.
+
+**3. Most In-Demand Skills for Data Engineers:** SQL and Python are the most universally required skills. Cloud platforms (AWS, Azure) and big data tools (Spark) are also in high demand.
+
+**4. Skills Associated with Higher Salaries:** Some less common or specialized skills (e.g., Assembly, Rust, Clojure) are associated with higher salaries. Certain big data and cloud skills also command strong compensation.
+
+**5. Most Optimal Skills to Learn:** Skills like Kubernetes, Kafka, and Spark offer a strong balance of demand and compensation. Both programming and cloud/data infrastructure skills are optimal for career growth.
+
+**6. Local Job Opportunities:** There are a variety of data and software roles available locally and both international and local companies are hiring in Cameroon.
+
 
 
 ## How to Use This Repository
