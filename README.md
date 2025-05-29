@@ -412,7 +412,7 @@ LIMIT 25;
 | 22   | Shell          | 34           | $135,499             |
 | 23   | Looker         | 30           | $134,614             |
 
-![Scatter plot of skill demand vs. average salary](assets\optimal_skills_scatter.png)
+![Scatter plot of skill demand vs. average salary](assets/optimal_skills_scatter.png)
 
 
 ### Most Optimal Skills to Learn — Table Analysis
